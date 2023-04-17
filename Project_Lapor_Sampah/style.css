@@ -1,0 +1,69 @@
+body{
+    background-image: url('../Project_Lapor_Sampah/gmbr/Peduli-Lingkungan.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: fixed;
+}
+
+
+.container-fluid{
+    background-color: #54B435;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#navbar-brand{
+    font-size: 40000000px;
+    color: white;
+}
+
+.navbar-nav{
+    text-align: right;
+    margin-left: 740px;
+    font-size: 22px;
+}
+
+.background{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.textBody{
+    color: white;
+    margin-top: 130px;
+    margin-left: 70px;
+}
+
+.judul{
+    font-size: 43px;
+}
+
+.textarea1{
+    margin-left: 76px;
+    font-size: 22px;
+}
+
+#btn{
+    color: white;
+    margin-left: 105px;
+    margin-top: 12px;
+    background: #54B435;
+}
+
+#btn:hover{
+    background-color: #54B411;
+    font-weight: bold;
+    color: white;
+}
+
+.txt{
+    color: white;
+}
+
+/*HAL-ADMIN
+*/
+.sdbar{
+    background-color: #54B435;
+} 

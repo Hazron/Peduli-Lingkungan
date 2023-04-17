@@ -1,0 +1,43 @@
+
+.container-fluid{
+    background: #54B435;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#navbar-brand{
+    font-size: 40px;
+    color: white;
+}
+
+.navbar-nav{
+    text-align: right;
+    margin-left: 700px;
+    font-size: 22px;
+}
+
+/*#btnlgn{
+    color: white;
+    background-color: ;
+}
+*/
+.img-fluid{
+    width: 2000px;
+    margin-bottom: 20px;
+}
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
